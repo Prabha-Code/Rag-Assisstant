@@ -88,7 +88,7 @@ streamlit run streamlit_app.py
 ## 🚀 Live Demo
 
 👉 Deployed Link:  
-(Add your deployed link here after deployment)
+https://ai-interview-mentor-xyz.streamlit.app
 
 ---
 
