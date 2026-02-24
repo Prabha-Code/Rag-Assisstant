@@ -1,6 +1,6 @@
 import re
 import os
-from pypdf import PdfReader
+from PyPDF2 import PdfReader
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -204,5 +204,6 @@ def generate_questions(missing_skills):
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}]
     )
+
 
     return response.choices[0].message.content
