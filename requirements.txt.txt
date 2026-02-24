@@ -1,4 +1,6 @@
-pypdf
 python-dotenv
 openai
 streamlit
+pypdf
+scikit-learn
+openai
