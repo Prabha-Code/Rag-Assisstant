@@ -104,9 +104,9 @@ https://ai-interview-mentor-xyz.streamlit.app
 
 ## 📧 Author
 
-Your Name  
-LinkedIn: (Add link)  
-GitHub: (Add link)
+Prabha A 
+LinkedIn: https://linkedin.com/in/prabhaa  
+GitHub: https://github.com/Prabha-Code
 
 ---
 
